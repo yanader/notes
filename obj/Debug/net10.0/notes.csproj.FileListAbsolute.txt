@@ -1,0 +1,14 @@
+E:\Code\C#\notes\bin\Debug\net10.0\notes.exe
+E:\Code\C#\notes\bin\Debug\net10.0\notes.deps.json
+E:\Code\C#\notes\bin\Debug\net10.0\notes.runtimeconfig.json
+E:\Code\C#\notes\bin\Debug\net10.0\notes.dll
+E:\Code\C#\notes\bin\Debug\net10.0\notes.pdb
+E:\Code\C#\notes\obj\Debug\net10.0\notes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\notes\obj\Debug\net10.0\notes.AssemblyInfoInputs.cache
+E:\Code\C#\notes\obj\Debug\net10.0\notes.AssemblyInfo.cs
+E:\Code\C#\notes\obj\Debug\net10.0\notes.csproj.CoreCompileInputs.cache
+E:\Code\C#\notes\obj\Debug\net10.0\notes.dll
+E:\Code\C#\notes\obj\Debug\net10.0\refint\notes.dll
+E:\Code\C#\notes\obj\Debug\net10.0\notes.pdb
+E:\Code\C#\notes\obj\Debug\net10.0\notes.genruntimeconfig.cache
+E:\Code\C#\notes\obj\Debug\net10.0\ref\notes.dll
